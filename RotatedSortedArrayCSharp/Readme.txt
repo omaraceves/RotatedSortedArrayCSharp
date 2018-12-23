@@ -1,7 +1,4 @@
-# RotatedSortedArrayCSharp
-Search in rotated sorted array in C#
-
-Search in Rotated Sorted Array
+﻿Search in Rotated Sorted Array
 
 Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
 
